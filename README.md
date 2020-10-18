@@ -1,11 +1,11 @@
 ### Hola a todos, soy Julian Carelli
 ### Front End developer 😄
 
-<p>Me encuentro empezando mi carrera IT, aprendiendo un poco día A día y estando al tanto de nuevas tecnologías las cuales pueda llevar a proyectos personales. Siempre intento que cada proyecto que haga, sea mejor que el anterior, si bien recien estoy comenzando, no tengo duda que es el mejor camino para poder progresar y seguir creciendo como profesional.</p>
+<p>Me encuentro empezando mi carrera IT, aprendiendo un poco día a día y estando al tanto de nuevas tecnologías las cuales pueda llevar a proyectos personales. Siempre intento que cada proyecto sea mejor que el anterior, si bien recien estoy comenzando, no tengo duda que es el mejor camino para poder progresar y seguir creciendo como profesional.</p>
 
 </br>
 
-### Lenguajes de programacion que utilizo:
+### Lenguajes de programación que utilizo:
   <img src="https://icon-icons.com/icons2/2108/PNG/32/javascript_icon_130900.png">
 
 </br>
