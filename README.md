@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hola a todos, soy Julian Carelli
+### Front End developer :D
 
 <!--
 **Julian-Carelli/Julian-Carelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
