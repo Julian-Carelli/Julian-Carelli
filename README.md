@@ -14,6 +14,7 @@
   <div>
     <img src="https://icon-icons.com/icons2/2415/PNG/32/react_original_logo_icon_146374.png">
     <img src="https://icon-icons.com/icons2/2415/PNG/32/bootstrap_plain_logo_icon_146619.png">
+    <img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_jest_snapshot_icon_130513.png">
   </div>
 
 </br>
@@ -22,7 +23,6 @@
   <div>
     <img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_sass_icon_130182.png">
     <img src="https://icon-icons.com/icons2/2415/PNG/32/redux_original_logo_icon_146365.png">
-    <img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_jest_snapshot_icon_130513.png">
   </div>
 
 </br>
