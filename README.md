@@ -39,4 +39,4 @@
 
 </br>
 
-Mi ultimo proyecto hecho: <a target="_blank" href="https://julian-carelli.github.io/Landing-Page/">Lading-Page</a>
+Mi ultimo proyecto hecho: <a target="_blank" href="https://julian-carelli.github.io/Landing-Page/">Landing-Page</a>
