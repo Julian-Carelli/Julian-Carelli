@@ -19,15 +19,16 @@
     <img src="https://icon-icons.com/icons2/2415/PNG/32/bootstrap_plain_logo_icon_146619.png">
     <img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_sass_icon_130182.png">
     <img src="https://icon-icons.com/icons2/2415/PNG/32/redux_original_logo_icon_146365.png">
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/64/js_webpack_logo_icon_167796.png">
   </div>
 
 </br>
 
 ### Herramientas que utilizo para Backend:
   <div>
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/32/mysql_original_wordmark_logo_icon_146417.png">
-    <img src="https://cdn.icon-icons.com/icons2/627/PNG/32/sql-file-rounded-rectangular-outlined-interface-symbol_icon-icons.com_57503.png">
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/32/express_original_wordmark_logo_icon_146528.png">
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/64/mysql_original_wordmark_logo_icon_146417.png">
+    <img src="https://cdn.icon-icons.com/icons2/273/PNG/64/icon_sql_256_30046.png">
+    <img src="https://cdn.icon-icons.com/icons2/2667/PNG/64/folder_express_icon_161294.png">
   </div>
 
 </br>
