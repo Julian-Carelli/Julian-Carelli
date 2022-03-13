@@ -1,7 +1,7 @@
 ### Hola a todos, soy Julian Carelli
 ### Software Developer 😄
 
-<p>Me encuentro empezando mi carrera IT, aprendiendo un poco día a día y estando al tanto de nuevas tecnologías las cuales pueda llevar a proyectos personales. Siempre intento que cada proyecto sea mejor que el anterior, si bien recien estoy comenzando, no tengo duda que es el mejor camino para poder progresar y seguir creciendo como profesional.</p>
+<p>Dedicado a las dos partes, tanto front-end como back-end. Soy una persona con un gran tacto en lo visual y consistente en la busqueda de resolucion de problemas, a su vez, con un gran abanico de ideas para poder implementar en los distintos proyectos que me toco formar parte..</p>
 
 </br>
 
