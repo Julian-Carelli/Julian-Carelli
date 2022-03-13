@@ -16,7 +16,7 @@
 ### Herramientas que utilizo para Front End:
   <div>
     <img src="https://icon-icons.com/icons2/2415/PNG/32/react_original_logo_icon_146374.png">
-    <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/next_js_logo_icon_145038.png">
+    <img src="https://cdn.icon-icons.com/icons2/2389/PNG/32/next_js_logo_icon_145038.png">
     <img src="https://icon-icons.com/icons2/2415/PNG/32/bootstrap_plain_logo_icon_146619.png">
     <img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_sass_icon_130182.png">
     <img src="https://icon-icons.com/icons2/2415/PNG/32/redux_original_logo_icon_146365.png">
@@ -30,7 +30,7 @@
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/32/mysql_original_wordmark_logo_icon_146417.png">
     <img src="https://cdn.icon-icons.com/icons2/273/PNG/32/icon_sql_256_30046.png">
     <img src="https://cdn.icon-icons.com/icons2/2667/PNG/32/folder_express_icon_161294.png">
-    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/laravel_icon_130892.png">
+    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/32/laravel_icon_130892.png">
   </div>
 
 </br>
@@ -38,12 +38,12 @@
 ### Herramientas que utilizo para Testing:
   <div>
     <img src="https://icon-icons.com/icons2/2107/PNG/32/file_type_jest_snapshot_icon_130513.png">
-    <img ="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cypress_icon_130654.png">
+    <img ="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_cypress_icon_130654.png">
   </div>
   
 ### Otras herramientas:
   <div>
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png">
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/32/file_type_docker_icon_130643.png">
   </div>
 
 </br>
